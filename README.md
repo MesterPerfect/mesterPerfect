@@ -25,7 +25,7 @@ I always try to simplify the information as much as possible in the videos that 
 أحاول دائما تبسيط المعلومات قدر الإمكان في الفيديوهات التي أقوم بنشرها، أيضا أكون سعيد جدا بمساعدة أي شخص واجهته أي مشكلة أثناء التعلم، لذا، لا تترددو في التواصل معي في أي وقت، وسأكون سعيد جدا بمساعدتكم.
 
 
-## Social media
+## وسائل التواصل
 * * facebook : https://www.facebook.com/my.nvda.1
 * instagram : https://www.instagram.com/MesterPerfect/
 * twitter : https://twitter.com/mester_perfect
