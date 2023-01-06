@@ -1,9 +1,8 @@
-# Welcome
-I am Ahmed Bakr (MesterPerfect)
-I love programming, technology and all that surrounds it,  I also like to help people with the knowledge i gained by researching and to exchange experiences between me and people interested in the same areas of my interests.
-Every day I try to gain new information in the areas I love, so the accumulation of information and experiences knowledge will acquires.
-I am currently working as a YouTube content maker and as a servers manager and web developer. My goal is to help all people of different ages  to learn how to use computer and programming languages and to achieve what they aspire to with ease.
-I always try to simplify the information as much as possible in the videos that I publish, I am also very happy when  i help anyone who facing any problem during learning, so, do not hesitate to contact me at any time, and I will be very happy to assist you.
+# Hello,
+I am Ahmed Bakr, also known as MesterPerfect. I am passionate about programming, technology, and anything related to it. I also enjoy helping others by sharing the knowledge I have gained through research and exchanging experiences with those who share similar interests.
+I strive to learn something new every day in my areas of interest, so that I can continually build upon my knowledge and experiences.
+Currently, I work as a YouTube content creator and as a server manager and web developer. My goal is to assist people of all ages in learning how to use computers and programming languages, and to help them achieve their goals with ease.
+In the videos I publish, I try to make the information as simple and straightforward as possible. If you have any issues while learning, please do not hesitate to reach out to me, as I am always happy to offer assistance.
 
 ## Social media
 * * facebook : https://www.facebook.com/my.nvda.1
