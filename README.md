@@ -5,7 +5,7 @@ Currently, I work as a YouTube content creator and as a server manager and web d
 In the videos I publish, I try to make the information as simple and straightforward as possible. If you have any issues while learning, please do not hesitate to reach out to me, as I am always happy to offer assistance.
 
 ## Social media
-* * facebook : https://www.facebook.com/ahmedbakr593
+* facebook : https://www.facebook.com/ahmedbakr593
 * instagram : https://www.instagram.com/ahmedbakr593
 * twitter : https://twitter.com/ahmedbakr593
 * udemy : https://www.udemy.com/user/mesterperfect/
@@ -25,7 +25,7 @@ In the videos I publish, I try to make the information as simple and straightfor
 
 
 ## وسائل التواصل
-* * facebook : https://www.facebook.com/ahmedbakr593
+* facebook : https://www.facebook.com/ahmedbakr593
 * instagram : https://www.instagram.com/ahmedbakr593
 * twitter : https://twitter.com/ahmedbakr593
 * udemy : https://www.udemy.com/user/mesterperfect/
