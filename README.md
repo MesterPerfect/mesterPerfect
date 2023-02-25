@@ -9,6 +9,7 @@ In the videos I publish, I try to make the information as simple and straightfor
 * instagram : https://www.instagram.com/ahmedbakr593
 * twitter : https://twitter.com/ahmedbakr593
 * udemy : https://www.udemy.com/user/mesterperfect/
+* tutorialspoint : https://www.tutorialspoint.com/profile/mesterperfect
 * github : https://github.com/mesterPerfect/
 * Telegram : https://t.me/MesterPerfect
 * linkedin : https://www.linkedin.com/in/ahmedbakr593/
@@ -32,6 +33,7 @@ In the videos I publish, I try to make the information as simple and straightfor
 * instagram : https://www.instagram.com/ahmedbakr593
 * twitter : https://twitter.com/ahmedbakr593
 * udemy : https://www.udemy.com/user/mesterperfect/
+* tutorialspoint : https://www.tutorialspoint.com/profile/mesterperfect
 * github : https://github.com/mesterPerfect/
 * Telegram : https://t.me/MesterPerfect
 * linkedin : https://www.linkedin.com/in/ahmedbakr593/
