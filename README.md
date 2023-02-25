@@ -11,7 +11,10 @@ In the videos I publish, I try to make the information as simple and straightfor
 * udemy : https://www.udemy.com/user/mesterperfect/
 * github : https://github.com/mesterPerfect/
 * Telegram : https://t.me/MesterPerfect
+* linkedin : https://www.linkedin.com/in/ahmedbakr593/
 * Buy Me A Coffee : https://www.buymeacoffee.com/MesterPerfect
+
+
 
 
 # مرحبا 
@@ -31,4 +34,5 @@ In the videos I publish, I try to make the information as simple and straightfor
 * udemy : https://www.udemy.com/user/mesterperfect/
 * github : https://github.com/mesterPerfect/
 * Telegram : https://t.me/MesterPerfect
+* linkedin : https://www.linkedin.com/in/ahmedbakr593/
 * Buy Me A Coffee : https://www.buymeacoffee.com/MesterPerfect
